@@ -1,5 +1,5 @@
 # C3- Version Control
-
+![](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/blob/main/Source/C3.png)
 
 - ## [Week 1](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C3-%20Version%20Control/W-1)
   - [Practice Quiz- Knowledge Check: Introduction to version control](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C3-%20Version%20Control/W-1/Practice%20Quiz-%20Knowledge%20Check:%20Introduction%20to%20version%20control)
