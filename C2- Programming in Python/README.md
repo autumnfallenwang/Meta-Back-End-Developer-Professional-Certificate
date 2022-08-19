@@ -30,3 +30,13 @@
   - [Programming Assignment: Abstract Classes and Methods](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-3/Programming%20Assignment:%20Abstract%20Classes%20and%20Methods)
   - [Practice Quiz- Self-review: Working with Methods](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-3/Practice%20Quiz-%20Self-review:%20Working%20with%20Methods)
   - [Module quiz: Programming Paradigms](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-3/Module%20quiz:%20Programming%20Paradigms)
+
+- ## [Week 4](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-4)
+  - [Programming Assignment: Import and Scope](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-4#:~:text=Programming%20Assignment%3A%20Import%20and%20Scope)
+  - [Practice Quiz- Knowledge check: Modules](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-4/Practice%20Quiz-%20Knowledge%20check:%20Modules)
+  - [Practice Quiz- Knowledge check: Popular Packages, Libraries and Frameworks](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-4/Practice%20Quiz-%20Knowledge%20check:%20Popular%20Packages%2C%20Libraries%20and%20Frameworks)
+  - [Practice Quiz- Testing quiz](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-4/Practice%20Quiz-%20Testing%20quiz)
+  - [Programming Assignment: Write a test](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-4/Programming%20Assignment:%20Write%20a%20test)
+  - [Module quiz: Modules, packages, libraries and tools](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-4/Module%20quiz:%20Modules%2C%20packages%2C%20libraries%20and%20tools)
+- ## [Week 5](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-5)
+  - [End-of-Course Graded Assessment: Using Python](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-5)
