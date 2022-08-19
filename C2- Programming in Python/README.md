@@ -1,5 +1,5 @@
 # C2- Programming in Python
-
+![](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/blob/main/Source/C2.png)
 
 - ## [Week 1](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-1)
   - [Programming Assignment: Type casting input](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-1/Programming%20Assignment:%20Type%20casting%20input)
