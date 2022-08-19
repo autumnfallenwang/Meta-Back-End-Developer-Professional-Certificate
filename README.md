@@ -42,6 +42,9 @@
   - [Programming Assignment: Mapping key-values to Dictionary data structures](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-3/Programming%20Assignment:%20Mapping%20key-values%20to%20Dictionary%20data%20structures)
   - [Practice Quiz- Knowledge check: Functional Programming](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-3/Practice%20Quiz-%20Knowledge%20check:%20Functional%20Programming)
   - [Practice Quiz- Self-review: Define a Class](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-3/Practice%20Quiz-%20Self-review:%20Define%20a%20Class)
+  - [Practice Quiz- Self-review: Instantiate a custom Object](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-3/Practice%20Quiz-%20Self-review:%20Instantiate%20a%20custom%20Object)
+  - [Practice Quiz- Abstract classes and methods](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-3/Practice%20Quiz-%20Abstract%20classes%20and%20methods)
+  - [Programming Assignment: Abstract Classes and Methods](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-3/Programming%20Assignment:%20Abstract%20Classes%20and%20Methods)
 ---
 ## [C3- Version Control](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C3-%20Version%20Control)
 
