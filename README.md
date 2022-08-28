@@ -50,7 +50,7 @@
   - [Module quiz: Programming Paradigms](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-3/Module%20quiz:%20Programming%20Paradigms)
 
 - ## [Week 4](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-4)
-  - [Programming Assignment: Import and Scope](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-4#:~:text=Programming%20Assignment%3A%20Import%20and%20Scope)
+  - [Programming Assignment: Import and Scope](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-4/Programming%20Assignment:%20Import%20and%20Scope)
   - [Practice Quiz- Knowledge check: Modules](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-4/Practice%20Quiz-%20Knowledge%20check:%20Modules)
   - [Practice Quiz- Knowledge check: Popular Packages, Libraries and Frameworks](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-4/Practice%20Quiz-%20Knowledge%20check:%20Popular%20Packages%2C%20Libraries%20and%20Frameworks)
   - [Practice Quiz- Testing quiz](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-4/Practice%20Quiz-%20Testing%20quiz)
