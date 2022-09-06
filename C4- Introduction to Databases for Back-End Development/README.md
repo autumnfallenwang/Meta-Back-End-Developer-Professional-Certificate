@@ -6,7 +6,7 @@
   - [Practice Quiz: Knowledge check: SQL syntax review](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C4-%20Introduction%20to%20Databases%20for%20Back-End%20Development/Week-1/Practice%20Quiz:%20Knowledge%20check:%20SQL%20syntax%20review)
   - []()
 
-- [Week 2](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C4-%20Introduction%20to%20Databases%20for%20Back-End%20Development/Week-1)
+- [Week 2](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C4-%20Introduction%20to%20Databases%20for%20Back-End%20Development/Week-2)
   - []()
   - []()
   - []()
