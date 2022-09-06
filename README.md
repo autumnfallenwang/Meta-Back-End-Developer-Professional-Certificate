@@ -49,7 +49,7 @@
   - [Practice Quiz- Self-review: Working with Methods](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-3/Practice%20Quiz-%20Self-review:%20Working%20with%20Methods)
   - [Module quiz: Programming Paradigms](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-3/Module%20quiz:%20Programming%20Paradigms)
 
-- ## [Week 4](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-4)
+- ### [Week 4](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-4)
   - [Programming Assignment: Import and Scope](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-4/Programming%20Assignment:%20Import%20and%20Scope)
   - [Practice Quiz- Knowledge check: Modules](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-4/Practice%20Quiz-%20Knowledge%20check:%20Modules)
   - [Practice Quiz- Knowledge check: Popular Packages, Libraries and Frameworks](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C2-%20Programming%20in%20Python/W-4/Practice%20Quiz-%20Knowledge%20check:%20Popular%20Packages%2C%20Libraries%20and%20Frameworks)
@@ -61,44 +61,44 @@
 ---
 ## [C3- Version Control](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C3-%20Version%20Control)
 
-- ## [Week 1](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C3-%20Version%20Control/W-1)
+- ### [Week 1](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C3-%20Version%20Control/W-1)
   - [Practice Quiz- Knowledge Check: Introduction to version control](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C3-%20Version%20Control/W-1/Practice%20Quiz-%20Knowledge%20Check:%20Introduction%20to%20version%20control)
   - [Module Quiz: Software collaboration](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C3-%20Version%20Control/W-1/Module%20Quiz:%20Software%20collaboration)
-- ## [Week 2](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C3-%20Version%20Control/W-2)
+- ### [Week 2](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C3-%20Version%20Control/W-2)
   - [Practice Quiz- Self review: Make and change directories and files](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C3-%20Version%20Control/W-2/Practice%20Quiz-%20Self%20review:%20Make%20and%20change%20directories%20and%20files)
   - [Practice Quiz- Knowledge Check: Unix Commands](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C3-%20Version%20Control/W-2/Practice%20Quiz-%20Knowledge%20Check:%20Unix%20Commands)
   - [Module Quiz: Command Line](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C3-%20Version%20Control/W-2/Module%20Quiz:%20Command%20Line)
-- ## [Week 3](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C3-%20Version%20Control/W-3)
+- ### [Week 3](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C3-%20Version%20Control/W-3)
   - [Practice Quiz- Self review: Using a Repository](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C3-%20Version%20Control/W-3/Practice%20Quiz-%20Self%20review:%20Using%20a%20Repository)
   - [Practice Quiz- Knowledge Check: Git and GitHub](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C3-%20Version%20Control/W-3/Practice%20Quiz-%20Knowledge%20Check:%20Git%20and%20GitHub)
   - [Practice Quiz- Self-review: Create a repository with forking](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C3-%20Version%20Control/W-3/Practice%20Quiz-%20Self-review:%20Create%20a%20repository%20with%20forking)
   - [Module Quiz: Working with Git](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C3-%20Version%20Control/W-3/Module%20Quiz:%20Working%20with%20Git)
-- ## [Week 4]()
+- ### [Week 4]()
   - [Practice Quiz- Self review: Managing a project in GitHub](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C3-%20Version%20Control/W-4/Practice%20Quiz-%20Self%20review:%20Managing%20a%20project%20in%20GitHub)
   - [End-of-course graded assessment](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C3-%20Version%20Control/W-4/End-of-course%20graded%20assessment)
 ---
 
 ## [C4- Introduction to Databases for Back-End Development](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C4-%20Introduction%20to%20Databases%20for%20Back-End%20Development)  
 
-- [Week 1](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C4-%20Introduction%20to%20Databases%20for%20Back-End%20Development/Week-1)
+- ### [Week 1](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C4-%20Introduction%20to%20Databases%20for%20Back-End%20Development/Week-1)
   - [Practice Quiz- Knowledge check: Databases and data](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C4-%20Introduction%20to%20Databases%20for%20Back-End%20Development/Week-1/Practice%20Quiz-%20Knowledge%20check:%20Databases%20and%20data)
   - [Practice Quiz: Knowledge check: SQL syntax review](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C4-%20Introduction%20to%20Databases%20for%20Back-End%20Development/Week-1/Practice%20Quiz:%20Knowledge%20check:%20SQL%20syntax%20review)
   - []()
 
-- [Week 2](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C4-%20Introduction%20to%20Databases%20for%20Back-End%20Development/Week-1)
+- ### [Week 2](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/tree/main/C4-%20Introduction%20to%20Databases%20for%20Back-End%20Development/Week-1)
   - []()
   - []()
   - []()
   
-- [Week 3]()
+- ### [Week 3]()
   - []()
   - []()
   - []()
  
-- [Week 4]()
+- ### [Week 4]()
   - []()
   - []()
   - []()
  
-- [Week 5]()
+- ### [Week 5]()
   - []()
